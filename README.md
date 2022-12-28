@@ -222,6 +222,9 @@ Quick Reference
 <a href="https://github.com/expoli" title="expoli">
   <img src="https://avatars.githubusercontent.com/u/31023767?v=4" width="42;" alt="expoli"/>
 </a>
+<a href="https://github.com/mic1on" title="MicLon">
+  <img src="https://avatars.githubusercontent.com/u/62975647?v=4" width="42;" alt="MicLon"/>
+</a>
 <a href="https://github.com/heStudio-Network" title="醉、倾城">
   <img src="https://avatars.githubusercontent.com/u/119711513?v=4" width="42;" alt="醉、倾城"/>
 </a>
@@ -252,8 +255,8 @@ Quick Reference
 <a href="https://github.com/13812700839" title="花殇">
   <img src="https://avatars.githubusercontent.com/u/58072506?v=4" width="42;" alt="花殇"/>
 </a>
-<a href="https://github.com/Smartdousha" title="dousha">
-  <img src="https://avatars.githubusercontent.com/u/52566311?v=4" width="42;" alt="dousha"/>
+<a href="https://github.com/dousha0w0" title="dousha0w0">
+  <img src="https://avatars.githubusercontent.com/u/52566311?v=4" width="42;" alt="dousha0w0"/>
 </a>
 <a href="https://github.com/Brid9e" title="Brid9e">
   <img src="https://avatars.githubusercontent.com/u/85558909?v=4" width="42;" alt="Brid9e"/>
@@ -323,6 +326,9 @@ Quick Reference
 </a>
 <a href="https://github.com/cool9203" title="cool9203">
   <img src="https://avatars.githubusercontent.com/u/29609607?v=4" width="42;" alt="cool9203"/>
+</a>
+<a href="https://github.com/gi-b716" title="gi-b716">
+  <img src="https://avatars.githubusercontent.com/u/78394473?v=4" width="42;" alt="gi-b716"/>
 </a>
 <a href="https://github.com/godotc" title="godotc">
   <img src="https://avatars.githubusercontent.com/u/79260851?v=4" width="42;" alt="godotc"/>
