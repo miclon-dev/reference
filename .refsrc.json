@@ -7,10 +7,7 @@
     "placeholder": "搜索备忘清单",
     "cancel": "取消"
   },
-  "editor": {
-    "label": "编辑"
-  },
   "github": {
-    "url": "https://github.com/jaywcjlove/reference"
+    "url": "https://github.com/mic1on/reference"
   }
 }
