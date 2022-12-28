@@ -1,14 +1,6 @@
 Quick Reference
 ===
 
-<!--rehype:ignore:start-->
-[![CI](https://github.com/jaywcjlove/reference/actions/workflows/ci.yml/badge.svg)](https://github.com/jaywcjlove/reference/actions/workflows/ci.yml)
-[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference)
-[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference)
-[![Docker Pulls](https://img.shields.io/docker/pulls/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference)
-<!--rehype:ignore:end-->
-
-
 为开发人员分享快速参考备忘清单【速查表】。这是英文版 [Reference](https://github.com/Randy8080/reference) 的中文版本，目的是为了方便自己的技术栈查阅，如果您提供一个清单，我将抽空搬运，立即撸起来 :)。如果您发现此处的备忘单不合适，您可以通过提交 [PR](https://github.com/jaywcjlove/reference/blob/main/CONTRIBUTING.md) 来修复它或提供更好的备忘清单，只针对【中文】用户。以下是开源天使提供的一些备忘清单和快速参考 :)。
 
 ## 正在建设中...
@@ -393,7 +385,4 @@ Quick Reference
 <a href="https://github.com/lisheng741" title="芦荟柚子茶">
   <img src="https://avatars.githubusercontent.com/u/53617305?v=4" width="42;" alt="芦荟柚子茶"/>
 </a><!--GAMFC-END-->
-
-[贡献者](https://github.com/jaywcjlove/reference/graphs/contributors)列表，由 [contributors](https://github.com/jaywcjlove/github-action-contributors) 根据提交次数的先后顺序自动生成
-<!--rehype:style=padding-top:1rem;-->
 
