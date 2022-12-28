@@ -1,4 +1,5 @@
 {
+  "title": "MicLon 编程参考",
   "description": "{{description}}，为开发人员分享快速参考备忘单。",
   "keywords": "reference,Quick,Reference,cheatsheet,cheat,sheet",
   "data-info": "👆待完善需要您的参与",
@@ -7,7 +8,16 @@
     "placeholder": "搜索备忘清单",
     "cancel": "取消"
   },
+  "editor": {
+    "label": "编辑"
+  },
   "github": {
     "url": "https://github.com/mic1on/reference"
-  }
+  },
+  "home": {
+    "label": "首页",
+    "url": "https://52caiji.com"
+  },
+  "footer": "<br />",
+  "license": "Copyright (c) <b>2022</b>"
 }
