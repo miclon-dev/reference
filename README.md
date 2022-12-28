@@ -201,19 +201,10 @@ Quick Reference
 [Resolutions](./docs/resolutions.md)<!--rehype:style=background: rgb(16 185 129);-->  
 <!--rehype:class=home-card-->
 
-## 看到缺少什么了吗？
-<!--rehype:wrap-style=text-align: center;max-width: 650px;margin: 0 auto;padding-top:4rem;&class=home-title-reset-->
-
-上面的列表没有看到你想要的？ 您是否正在寻找一些备忘清单或参考资料，或者您有一些片段备忘清单要分享，这是一个最好的机会！
-
-[`请求添加备忘单(速查表)`](https://github.com/jaywcjlove/reference/issues/new?title=【备忘清单】+请求%3A+&labels=request&template=cheatsheet-request.md&assignee=jaywcjlove)<!--rehype:class=home-button&style=margin-top:2rem&target=__blank-->
-[`我有一张备忘单(速查表)`](https://github.com/jaywcjlove/reference/blob/main/CONTRIBUTING.md)<!--rehype:class=home-button text-grey&target=__blank-->
-<!--rehype:style=margin-top:3rem-->
-
 ## 感谢所有贡献者
 <!--rehype:wrap-style=text-align: center;max-width: 650px;margin: 0 auto;&class=home-title-reset-->
 
-请参阅 [Quick Reference](./docs/quickreference.md) 了解如何开始。一如既往，感谢我们出色的[贡献者](https://github.com/jaywcjlove/reference/graphs/contributors)！
+请参阅 [Quick Reference](./docs/quickreference.md) 了解如何开始。
 <!--rehype:style=padding-bottom:1rem;-->
 
 <!--GAMFC--><a href="https://github.com/jaywcjlove" title="小弟调调™">
@@ -403,42 +394,3 @@ Quick Reference
 [贡献者](https://github.com/jaywcjlove/reference/graphs/contributors)列表，由 [contributors](https://github.com/jaywcjlove/github-action-contributors) 根据提交次数的先后顺序自动生成
 <!--rehype:style=padding-top:1rem;-->
 
-## 国内镜像网站
-<!--rehype:wrap-style=text-align: center;max-width: 650px;margin: 0 auto;&class=home-title-reset-->
-
-由于中国国内访问，时常打不开，你可以访问下面镜像网站。推荐自己的[镜像网站](https://github.com/jaywcjlove/reference/discussions/206#discussion-4625735)
-
-[quickref.cn](https://quickref.cn)<!--rehype:target=_blank-->
-[ecdata.cn](http://ref.ecdata.cn)<!--rehype:target=_blank-->
-[aibk.cn](https://quickref.aibk.cn)<!--rehype:target=_blank-->
-[jgeek.cn](http://reference.jgeek.cn/)<!--rehype:target=_blank-->
-[laoleng.vip](http://bbs.laoleng.vip/reference/)<!--rehype:target=_blank-->
-[liujiapeng.com](https://www.liujiapeng.com/)<!--rehype:target=_blank-->
-[dbyun.net](https://www.dbyun.net/reference/index.html)<!--rehype:target=_blank-->
-[dc6.fun](https://dc6.fun/reference/)<!--rehype:target=_blank-->
-[if010.com](https://quickref.if010.com/)<!--rehype:target=_blank-->
-[pipecraft.net](https://quickref.pipecraft.net/)<!--rehype:target=_blank&class=contributing&data-info=👆需要梯子-->
-[isteed.cc](https://ref.isteed.cc/)<!--rehype:target=_blank-->
-[1han.wiki](https://code.1han.wiki/)<!--rehype:target=_blank-->
-[linzhe.top](https://linzhe.top/)<!--rehype:target=_blank-->
-[xushanxiang.com](https://xushanxiang.com/ref/)<!--rehype:target=_blank-->
-[winnerzr01.github.io](https://winnerzr01.github.io/Quick-Reference/index.html)<!--rehype:target=_blank&class=contributing&data-info=👆需要梯子-->
-[isteed.cc](https://ref.isteed.cc/)<!--rehype:target=_blank-->
-[quickref.hestudio.org](https://quickref.hestudio.org)<!--rehype:target=_blank&class=contributing&data-info=👆整点自动同步-->
-[surcode.cn](https://ref.surcode.cn)<!--rehype:target=_blank-->
-[cms.im](https://quickref.cms.im/)<!--rehype:target=_blank-->
-[nuomiphp.com](https://reference.tool.nuomiphp.com/)<!--rehype:target=_blank-->
-[eryajf.net](https://ref.eryajf.net/)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
-[kjchmc.cn](https://ref.kjchmc.cn/)<!--rehype:target=_blank&class=contributing&data-info=👆实时同步，多线路-->
-[likeadmin.cn](https://www.likeadmin.cn/quickref/)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
-[ref.qiubit.cc](http://ref.qiubit.cc)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
-[aoh.cc](https://aoh.cc/)<!--rehype:target=_blank-->
-<!--rehype:class=home-card home-links-->
-
-如果你有资源，可以很方便部署 web 版，这非常简单，只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
-
-<!--rehype:ignore:start-->
-## License
-
-MIT © [Kenny Wong](https://github.com/jaywcjlove)
-<!--rehype:ignore:end-->
